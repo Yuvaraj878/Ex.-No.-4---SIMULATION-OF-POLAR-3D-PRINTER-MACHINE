@@ -32,6 +32,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![241524838-609fcd83-3754-440d-aa15-359d7c98ca88](https://github.com/Yuvaraj878/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118622554/76ac5b3f-69ce-42eb-a5d7-baa94eb4f561)
 
 ### Name:  YUVARAJ.S
 ### Register Number: 212222240119
